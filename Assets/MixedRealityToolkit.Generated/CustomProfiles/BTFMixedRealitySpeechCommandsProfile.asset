@@ -17,27 +17,6 @@ MonoBehaviour:
   recognitionConfidenceLevel: 1
   speechCommands:
   - localizationKey: 
-    keyword: Menu
-    keyCode: 51
-    action:
-      id: 2
-      description: Menu
-      axisConstraint: 2
-  - localizationKey: 
-    keyword: Select
-    keyCode: 49
-    action:
-      id: 1
-      description: Select
-      axisConstraint: 2
-  - localizationKey: 
-    keyword: Toggle Diagnostics
-    keyCode: 48
-    action:
-      id: 14
-      description: Toggle Diagnostics
-      axisConstraint: 0
-  - localizationKey: 
     keyword: Toggle Profiler
     keyCode: 57
     action:
@@ -59,30 +38,23 @@ MonoBehaviour:
       description: Toggle Profiler
       axisConstraint: 0
   - localizationKey: 
-    keyword: red
+    keyword: make bigger
     keyCode: 0
     action:
       id: 0
       description: Toggle Profiler
       axisConstraint: 0
   - localizationKey: 
-    keyword: green
+    keyword: make smaller
     keyCode: 0
     action:
       id: 0
       description: Toggle Profiler
       axisConstraint: 0
   - localizationKey: 
-    keyword: yellow
-    keyCode: 0
+    keyword: Select
+    keyCode: 49
     action:
-      id: 0
-      description: Toggle Profiler
-      axisConstraint: 0
-  - localizationKey: 
-    keyword: white
-    keyCode: 0
-    action:
-      id: 0
-      description: Toggle Profiler
-      axisConstraint: 0
+      id: 1
+      description: Select
+      axisConstraint: 2

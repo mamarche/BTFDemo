@@ -511,6 +511,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1847273868, guid: 69c48ee230224fc4bb757faf21b9dab3, type: 3}
+      propertyPath: speechConfirmationTooltipPrefab
+      value: 
+      objectReference: {fileID: 8046114618238072051, guid: 271778f6c957b524981067a81d238394,
+        type: 3}
     - target: {fileID: 5461425693584123116, guid: 69c48ee230224fc4bb757faf21b9dab3,
         type: 3}
       propertyPath: roomEnvironment
